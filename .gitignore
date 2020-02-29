@@ -1,0 +1,6 @@
+*.pyc
+*.jpg
+*.jpeg
+orig_image_hashs.json
+import/scryfall-default-cards.json
+import/singles.csv
